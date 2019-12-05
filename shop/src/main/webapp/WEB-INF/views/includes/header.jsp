@@ -1,9 +1,18 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<head>
+<link type="text/css" rel="stylesheet" href="http://cdn2-aka.makeshop.co.kr/design/jogunshop/MakeshopRenewal/css/font2.css">
+<link href="http://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet" type="text/css">
 <link
 	href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
 	rel="stylesheet" id="bootstrap-css">
 <script
 	src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="/resources/maincss/css.css" />
 
+</head>
+<body>
 <div align="center">
 <h1>GNUSHOP</h1>
 </div>
@@ -38,5 +47,81 @@
 		</form>
 	</div>
 </nav>
-
-
+<div class="menubar">
+<ul>
+ <li><a href="#">Home</a></li>
+ <li><a href="#" id="current">Products</a>
+	<ul>
+     <li><a href="#">Sliders</a></li>
+     <li><a href="#">Galleries</a></li>
+     <li><a href="#">Apps</a></li>
+     <li><a href="#">Extensions</a></li>
+    </ul>
+ </li>
+ <li><a href="#" id="current">Products</a>
+	<ul>
+     <li><a href="#">Sliders</a></li>
+     <li><a href="#">Galleries</a></li>
+     <li><a href="#">Apps</a></li>
+     <li><a href="#">Extensions</a></li>
+    </ul>
+ </li>
+ <li><a href="#" id="current">Products</a>
+	<ul>
+     <li><a href="#">Sliders</a></li>
+     <li><a href="#">Galleries</a></li>
+     <li><a href="#">Apps</a></li>
+     <li><a href="#">Extensions</a></li>
+    </ul>
+ </li>
+ <li><a href="#" id="current">Products</a>
+	<ul>
+     <li><a href="#">Sliders</a></li>
+     <li><a href="#">Galleries</a></li>
+     <li><a href="#">Apps</a></li>
+     <li><a href="#">Extensions</a></li>
+    </ul>
+ </li>
+ <li><a href="#" id="current">Products</a>
+	<ul>
+     <li><a href="#">Sliders</a></li>
+     <li><a href="#">Galleries</a></li>
+     <li><a href="#">Apps</a></li>
+     <li><a href="#">Extensions</a></li>
+    </ul>
+ </li>
+ <li><a href="#" id="current">Products</a>
+	<ul>
+     <li><a href="#">Sliders</a></li>
+     <li><a href="#">Galleries</a></li>
+     <li><a href="#">Apps</a></li>
+     <li><a href="#">Extensions</a></li>
+    </ul>
+ </li>
+ <li><a href="#" id="current">Products</a>
+	<ul>
+     <li><a href="#">Sliders</a></li>
+     <li><a href="#">Galleries</a></li>
+     <li><a href="#">Apps</a></li>
+     <li><a href="#">Extensions</a></li>
+    </ul>
+ </li>
+ <li><a href="#" id="current">Products</a>
+	<ul>
+     <li><a href="#">Sliders</a></li>
+     <li><a href="#">Galleries</a></li>
+     <li><a href="#">Apps</a></li>
+     <li><a href="#">Extensions</a></li>
+    </ul>
+ </li>
+ <li><a href="#" id="current">Products</a>
+	<ul>
+     <li><a href="#">Sliders</a></li>
+     <li><a href="#">Galleries</a></li>
+     <li><a href="#">Apps</a></li>
+     <li><a href="#">Extensions</a></li>
+    </ul>
+ </li>
+</ul>
+</div>
+</body>
