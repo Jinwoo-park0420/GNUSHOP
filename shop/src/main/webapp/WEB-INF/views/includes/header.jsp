@@ -16,7 +16,7 @@
 <div align="center">
 <h1>GNUSHOP</h1>
 </div>
-
+<div class="topmanu">
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
 	<a class="navbar-brand" href="#">GNuShop</a>
 	<button class="navbar-toggler" type="button" data-toggle="collapse"
@@ -47,6 +47,8 @@
 		</form>
 	</div>
 </nav>
+</div>
+
 <div class="menubar">
 <ul>
  <li><a href="#">Home</a></li>

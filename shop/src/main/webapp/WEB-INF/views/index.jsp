@@ -6,9 +6,14 @@
 <head>
 <%@include file="includes/header.jsp" %>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>GNUSHOP</title>
 </head>
 <body>
-<h1>메인페이지</h1>
+asd
+<br>
+<div>
+htehe
+</div>
 </body>
 </html>
+<%@include file="includes/footer.jsp" %>
